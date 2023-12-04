@@ -23,4 +23,3 @@ native copyright terms that apply the rule of the shorter term to foreign works.
 
 # Sources
 Das Leben des Feldmarschalls Grafen York von Wartenburg [hathitrust](hhttps://babel.hathitrust.org/cgi/pt?id=nyp.33433082418090&seq=17)
-
