@@ -4697,6 +4697,13 @@ Anerkennung, daß ich Soldat sei.“
 ****
 ::::
 
+:::: {.wrap-70 .break-after}
+![&nbsp;](York_von_Wartenburg_464.jpg ""){#b0464}
+::::
+
+
+
+
 ## Sechstes Kapitel.<br /><small>Zerwürfnisse und Unterhandlungen.</small>
 
 ::: justified
@@ -6579,17 +6586,24 @@ einigen Stunden Rast wieder aufgebrochen und mit den zwei Schwadronen
 Massenbachs bis Schelell vorwärts gegangen, während die Bataillone in und um
 Koltiniani übernachten sollten; nur 50 Husaren und einige Dragoner unter
 Lieutenant Brederlow blieben bei ihnen. Man fühlte sich in dem Flecken bei der
-unzweifelhaften Nähe von Kosacken doch nichts weniger als sicher; Lieutenant Below und Baron Canitz übernahmen es, mit den Reitern auszuspähen. Gleich die erste Patrouille von drei Dragonern, die ausging, ward angegriffen; nur einer von ihnen kam zurück; sofort alarmirte man die Truppen, der Lärm der Trommeln und Flügelhörner scheuchte die Kosacken; man konnte noch ein paar Stunden ruhen. Vor der Morgendämmerung brach man auf; kaum daß man aus der Stadt war, schlug ein helles Feuer darin auf; man zweifelte nicht, daß es ein Signal sei.
+unzweifelhaften Nähe von Kosacken doch nichts weniger als sicher; Lieutenant
+Below und Baron Canitz übernahmen es, mit den Reitern auszuspähen. Gleich die
+erste Patrouille von drei Dragonern, die ausging, ward angegriffen; nur einer
+von ihnen kam zurück; sofort alarmirte man die Truppen, der Lärm der Trommeln
+und Flügelhörner scheuchte die Kosacken; man konnte noch ein paar Stunden ruhen.
+Vor der Morgendämmerung brach man auf; kaum daß man aus der Stadt war, schlug
+ein helles Feuer darin auf; man zweifelte nicht, daß es ein Signal sei.
 
-Auf dem Wege gen Schelell kam ein Adjutant Macdonalds hergesprengt, eine Depesche für York abzugeben. Der Colonnenjäger Schulemann mit fünf Husaren ward abgesandt, sie zu überbringen.
-Nicht lange, und er kam zurück: starke feindliche Cavallerie stehe in und um
-Koltiniani, es sei nicht mehr durchzukommen. Dies war am Weihnachtstage
-Vormittags. Es ward — man hatte einstweilen Schelell erreicht — ein zweiter
-Versuch gemacht, es ward der Rittmeister v. Weiß mit fünfzig Dragonern
-abgesandt, das Schreiben, es koste was es wolle, an York nach Koltiniani zu
-bringen. Er traf auf halbem Wege in der Dunkelheit Kosacken, sprengte in sie
-hinein, warf sie bis Koltiniani, aber statt der Preußen fand er dort den Feind,
-kehrte mit Verlust mehrerer Leute zurück.
+Auf dem Wege gen Schelell kam ein Adjutant Macdonalds hergesprengt, eine
+Depesche für York abzugeben. Der Colonnenjäger Schulemann mit fünf Husaren ward
+abgesandt, sie zu überbringen. Nicht lange, und er kam zurück: starke feindliche
+Cavallerie stehe in und um Koltiniani, es sei nicht mehr durchzukommen. Dies war
+am Weihnachtstage Vormittags. Es ward — man hatte einstweilen Schelell erreicht
+— ein zweiter Versuch gemacht, es ward der Rittmeister v. Weiß mit fünfzig
+Dragonern abgesandt, das Schreiben, es koste was es wolle, an York nach
+Koltiniani zu bringen. Er traf auf halbem Wege in der Dunkelheit Kosacken,
+sprengte in sie hinein, warf sie bis Koltiniani, aber statt der Preußen fand er
+dort den Feind, kehrte mit Verlust mehrerer Leute zurück.
 
 Der Marschall begann um das Schicksal Yorks besorgt zu werden. Er machte am 26.
 einen nur kleinen Marsch, und zwar von der großen Straße rechts ab gen Wainuti,
@@ -6794,7 +6808,7 @@ les Puissances de l'Europe la place qu'elle y oceupait avant la guerre de
 1806).“ Der Kaiser autorisirt ihn schließlich, diese Eröffnung dem General York
 entweder mündlich zu machen, oder wenn es ihm nöthig scheine, auch schriftlich,
 jedoch mit der Mahnung, nicht weiter zu gehen (de ne pas y donner de plus grande
-latitude).“)
+latitude).“^[^0219]^
 
 So schrieb denn Paulucci am 22. Dec. einen neuen Brief, drohend, schmeichelnd,
 höchst zudringlich. Er beginnt damit, Yorks letztes Schreiben vom 16. zu

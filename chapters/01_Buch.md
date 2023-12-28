@@ -3938,6 +3938,11 @@ der ihm eigenen Gewissenhaftigkeit“.
 ::::
 
 
+:::: {.wrap-70 .break-after}
+![&nbsp;](York_von_Wartenburg_463.jpg ""){#b0463}
+::::
+
+
 ## Neuntes Kapitel.<br /><small>Waren und Lübeck</small>
 
 ::: justified
