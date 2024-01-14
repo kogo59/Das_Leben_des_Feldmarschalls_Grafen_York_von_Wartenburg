@@ -6010,7 +6010,7 @@ Preititz hinaus auf den Mühlenberg bei Gleina vorschieben müsse. „Er fragte 
 Generalissimus: wie stark ist Barclay? Graf Wittgenstein antwortete, ohne sich
 zu besinnen: 15,000 Mann.“. Des Kaisers Frage, ob diese ausreichend seien, wurde
 von den preußischen Strategen bejaht und die Aufstellung Barclay's in der
-bezeichneten Position angeordnet..
+bezeichneten Position angeordnet.
 
 Konnte man so des am meisten gefährdeten rechten Flügels sicher sein, so war bei
 der unvergleichlichen Stimmung der Truppen wohl. auf eine glückliche
@@ -6335,9 +6335,9 @@ die Erinnerung an jene erhebende Feier. In der Hoffnung bald mit frischen
 Kräften dem Feinde zu begegnen, trennten sich die Truppen, vertheilten sich in
 die Dörfer zwischen Ohlau und dem Zobten.
 
-
-
-
+:::: {.wrap-70 .break-before}
+![&nbsp;](York_von_Wartenburg_478.jpg ""){#b0478}
+::::
 
 :::
 
@@ -6397,7 +6397,7 @@ die Dörfer zwischen Ohlau und dem Zobten.
 
 [^0322]: [So in dem mir vorliegenden Parolebuch; in den Beiträgen I S. 359 ist der Ausdruck ein wenig abweichend.]{.footnote}
 
-[^0323]: [SWorte der musterhaften Monographie „das Treffen bei Königswartha und Weißig“ von Major von Fransecky des großen Generalstabes (im Milit. Wochenblatt 1847. Beiheft. S. 60), aus der die vorstehende Darstellung fast ausschließlich entnommen ist.]{.footnote}
+[^0323]: [Worte der musterhaften Monographie „das Treffen bei Königswartha und Weißig“ von Major von Fransecky des großen Generalstabes (im Milit. Wochenblatt 1847. Beiheft. S. 60), aus der die vorstehende Darstellung fast ausschließlich entnommen ist.]{.footnote}
 
 [^0324]: [So die erwähnte Monographie, mit dem Bemerken: „bei den so zu sagen aus dem Stegreif entstandenen Verhältnissen konnte auch nur aus dem Stegreif gehandelt werden.“]{.footnote}
 
