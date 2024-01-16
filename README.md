@@ -22,4 +22,4 @@ native copyright terms that apply the rule of the shorter term to foreign works.
 * Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
-Das Leben des Feldmarschalls Grafen York von Wartenburg [hathitrust](hhttps://babel.hathitrust.org/cgi/pt?id=nyp.33433082418090&seq=17)
+Das Leben des Feldmarschalls Grafen York von Wartenburg [hathitrust](https://babel.hathitrust.org/cgi/pt?id=nyp.33433082418090&seq=17)
