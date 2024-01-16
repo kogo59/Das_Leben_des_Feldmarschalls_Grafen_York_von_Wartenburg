@@ -6341,7 +6341,7 @@ die Dörfer zwischen Ohlau und dem Zobten.
 
 :::
 
-:::: { .align-center .break-after }
+:::: { .align-center  }
 ****
 ::::
 

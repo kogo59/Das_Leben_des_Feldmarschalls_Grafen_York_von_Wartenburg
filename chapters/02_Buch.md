@@ -4693,7 +4693,7 @@ Anerkennung, daß ich Soldat sei.“
 
 :::
 
-:::: { .align-center .break-after }
+:::: { .align-center }
 ****
 ::::
 
@@ -7445,7 +7445,9 @@ losreißen können, dessen Plane mit Preußen in einem mit Recht Besorgniß
 erregenden Dunkel gehüllt waren, wenn das Glück ihm treu geblieben wäre. Diese
 Ansicht hat mich geleitet. Gebe Gott, daß sie zum Heile des Vaterlandes führt.
 
-:::: align-right York.“ ::::
+:::: align-right 
+York.“ 
+::::
 
 Mit diesem Schreiben sandte York noch am 30. Major Thile nach Berlin.
 

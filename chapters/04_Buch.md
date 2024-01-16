@@ -1,6 +1,6 @@
 # Viertes Buch.<br /> {#vier .unnumbered .break-after}
 
-## Erstes Kapitel.<br /><small>Katzbach./small>
+## Erstes Kapitel.<br /><small>Katzbach.</small>
 
 ::: justified
 
@@ -10650,7 +10650,7 @@ York von Wartenburg.“
 
 :::
 
-:::: { .align-center .break-after }
+:::: { .align-center }
 ****
 ::::
 

@@ -3,7 +3,7 @@
 ::::
 
 :::: { .fs-l .align-center }
-Das Leben<br /><br /><br />
+Das Leben<br /><br />
 ::::
 
 :::: { .fs-xs .align-center }
@@ -15,11 +15,11 @@ Feldmarschalls<br /><br />
 ::::
 
 :::: { .fs-jumbo .align-center }
-Grafen York von Wartenburg<br /><br />
+Grafen York von Wartenburg<br />
 ::::
 
 :::: { .fs-xs .align-center }
-von<br /><br />
+von<br />
 ::::
 
 :::: { .fs-l .align-center }

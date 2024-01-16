@@ -4627,7 +4627,7 @@ dann todt hin.
 
 :::
 
-:::: { .align-center .break-after }
+:::: { .align-center  }
 ****
 ::::
 
