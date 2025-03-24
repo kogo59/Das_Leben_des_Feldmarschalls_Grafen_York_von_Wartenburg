@@ -1,4 +1,4 @@
-# Vorwort.<br /> {#VORWORT .unnumbered}
+# Vorwort.<br /> {#VORWORT .unnumbered  }
 
 ## Vorwort zur ersten Auflage.
 
@@ -118,7 +118,7 @@ damit das Begonnene desto würdiger vollendet werde.
 
 |     Kiel, in den Weihnachten 1850.
 
-:::: { .align-right .break-after }
+:::: { .align-right  }
 **Joh. Gust. Droysen.**
 ::::
 
@@ -162,7 +162,7 @@ frommer Bethörung und bethörter Frömmigkeit. Gott schütze Kaiser und Reich!
 
 |    Berlin, 18. Juni 1875.
 
-:::: { .align-right .break-after}
+:::: { .align-right }
 **Joh. Gust. Droysen.**
 ::::
 

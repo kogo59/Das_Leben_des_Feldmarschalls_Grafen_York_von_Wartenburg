@@ -1,4 +1,4 @@
-# Erstes Buch.<br /> {#EINS .unnumbered }
+# Erstes Buch.<br /> {#EINS .unnumbered .break-before }
 
 ::: { .justified .break-before  }
 

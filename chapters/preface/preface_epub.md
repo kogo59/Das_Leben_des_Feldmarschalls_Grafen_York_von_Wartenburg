@@ -51,6 +51,6 @@ Verlag von Veit & Comp<br />
 1878
 ::::
 
-:::: { .fs-xs .align-center }
+:::: { .fs-xs .align-center .break-after }
 <br /><br /><br /><br /><br />Das Recht der Herausgabe von Uebersetzungen in fremde Sprachen vorbehalten.<br />
 ::::
