@@ -1,6 +1,6 @@
-# Erstes Buch.<br /> {#EINS .unnumbered}
+# Erstes Buch.<br /> {#EINS .unnumbered }
 
-::: { .justified .break-before .break-after }
+::: { .justified .break-before  }
 
 Nie hat sich ein Staat aus tieferem Sturz schneller und stolzer erhoben als
 Preußen nach dem Tage von Jena.
@@ -35,9 +35,6 @@ vermocht hat.
 
 :::
 
-:::: { .align-center .break-after }
-****
-::::
 
 
 ## Erstes Kapitel.<br /><small>Die Jugendjahre.</small>
@@ -288,10 +285,6 @@ frischen Lorbeeren zu erneuen. Der weitere politische Anlaß wird den Herren
 Officiers sehr gleichgültig gewesen sein.
 
 :::
-
-:::: { .align-center .break-after }
-****
-::::
 
 ## Zweites Kapitel.<br /><small>Der erste Feldzug.</small>
 
@@ -665,9 +658,6 @@ Er ging von Pillau zu Schiff nach Kopenhagen. Es währte ein paar Tage, ehe sich
 ein anderes Schiff zur Weiterreise fand.
 :::
 
-:::: { .align-center .break-after }
-****
-::::
 
 ## Drittes Kapitel.<br /><small>Der holländische Dienst.</small>
 
@@ -1302,10 +1292,6 @@ Compagnie; mit dem nächsten Schiffe kehrte er nach Europa zurück.
 
 :::
 
-:::: { .align-center .break-after }
-****
-::::
-
 
 ## Viertes Kapitel.<br /><small>Die Rückkehr in den preußischen Dienst.</small>
 
@@ -1755,9 +1741,6 @@ er hatte den Stolz, nur das gelten zu wollen, was er leisten würde.
 
 :::
 
-:::: { .align-center .break-after }
-****
-::::
 
 ## Fünftes Kapitel.<br /><small>Breslau und Polen.</small>
 
@@ -2256,9 +2239,6 @@ geschah.
 
 :::
 
-:::: { .align-center .break-after }
-****
-::::
 
 
 ## Sechstes Kapitel.<br /><small>Johannisburg und Mittenwalde.</small>
@@ -3055,9 +3035,6 @@ Pflicht willen; für die Masse sei Furcht oder Hoffnung Triebfeder des Handelns.
 
 :::
 
-:::: { .align-center .break-after }
-****
-::::
 
 ## Siebtes Kapitel.<br /><small>Der Auszug von 1805.</small>
 
@@ -3345,9 +3322,6 @@ in die Garnisonen zurückmarschirt.
 
 :::
 
-:::: { .align-center .break-after }
-****
-::::
 
 ## Achtes Kapitel.<br /><small>Jena und Altenzaun.</small>
 
@@ -3933,11 +3907,6 @@ der ihm eigenen Gewissenhaftigkeit“.
 :::
 
 
-:::: { .align-center .break-after }
-****
-::::
-
-
 :::: {.wrap-70 .break-after}
 ![&nbsp;](York_von_Wartenburg_463.jpg ""){#b0463}
 ::::
@@ -3947,7 +3916,7 @@ der ihm eigenen Gewissenhaftigkeit“.
 
 ::: justified
 
-So war Alles gluͤcklich vollbracht. Es war nach so unermeßlicher Schande
+So war Alles glücklich vollbracht. Es war nach so unermeßlicher Schande
 preußischer Waffen das erste glückliche Gefecht; die alte soldatische Kunst und
 Sicherheit war in einer neuen glänzenden Probe bewiesen. Wahrlich nur der
 rechten Leitung und Verwendung bedurfte es, um mit den Truppen Alles zu leisten.
@@ -4627,11 +4596,5 @@ dann todt hin.
 
 :::
 
-:::: { .align-center  }
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0100]: [Lieutenant v. Hedemann erhielt „für Kriwitz“ den Orden 1809. Vor Jahren, als er bei seines Vaters Tode dessen Orden zurückgab, hatte ihm der König gesagt, er wolle denselben für ihn aufheben; der Sohn erhielt so den doppelt theuren Schmuck.]{.footnote}

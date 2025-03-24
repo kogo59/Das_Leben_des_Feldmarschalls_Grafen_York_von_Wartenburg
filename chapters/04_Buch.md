@@ -1,4 +1,4 @@
-# Viertes Buch.<br /> {#vier .unnumbered .break-after}
+# Viertes Buch.<br /> {#vier .unnumbered .break-before}
 
 ## Erstes Kapitel.<br /><small>Katzbach.</small>
 
@@ -10650,13 +10650,6 @@ York von Wartenburg.“
 
 :::
 
-:::: { .align-center }
-****
-::::
-
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0400]: [Es waren: 1. Ostpreuß. unter Major v. Leslie; Leibgrenadiere unter Major v. Carlowitz; Westpreußen unter Major v. Schon; Schlesisches unter Major v. Burghof.]{.footnote}
 

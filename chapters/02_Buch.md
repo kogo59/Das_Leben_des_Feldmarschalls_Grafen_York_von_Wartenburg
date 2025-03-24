@@ -1,4 +1,4 @@
-# Zweites Buch.<br /> {#ZWEI .unnumbered .break-after}
+# Zweites Buch.<br /> {#ZWEI .unnumbered .break-before}
 
 ## Erstes Kapitel.<br /><small>Der Friede von Tilsit.</small>
 
@@ -386,9 +386,6 @@ Marienwerder wieder ein.
 
 :::
 
-:::: { .align-center .break-after }
-****
-::::
 
 
 ## Zweites Kapitel.<br /><small>Die Steinschen Reformen.</small>
@@ -850,11 +847,6 @@ besaßen sie dessen Vertrauen nicht in dem Maße, wie sie mußten, wenn ihr Wagn
 gelingen sollte.
 
 :::
-
-:::: { .align-center .break-after }
-****
-::::
-
 
 ## Drittes Kapitel.<br /><small>Die Vorgänge von 1809 und 1810.</small>
 
@@ -1464,9 +1456,6 @@ Geschichte.
 
 :::
 
-:::: { .align-center .break-after }
-****
-::::
 
 
 ## Viertes Kapitel.<br /><small>Die Agonien von 1811.</small>
@@ -3732,9 +3721,6 @@ vor mit dem von Ihnen gewohnten Eifer vorzunehmen.“
 
 :::
 
-:::: { .align-center .break-after }
-****
-::::
 
 ## Fünftes Kapitel.<br /><small>Der Anfang des Feldzuges von 1812.</small>
 
@@ -4693,9 +4679,6 @@ Anerkennung, daß ich Soldat sei.“
 
 :::
 
-:::: { .align-center }
-****
-::::
 
 :::: {.wrap-70 .break-after}
 ![&nbsp;](York_von_Wartenburg_464.jpg ""){#b0464}
@@ -6377,10 +6360,6 @@ entschließen und zu handeln.
 
 :::
 
-:::: { .align-center .break-after }
-****
-::::
-
 
 ## Siebtes Kapitel.<br /><small>Die Convention von Tauroggen.</small>
 
@@ -7800,12 +7779,6 @@ Tilsit, den 3. Januar 1813.
 
 :::
 
-:::: { .align-center .break-after }
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0200]: [Diese Worte waren von dem König selbst unterstrichen.]{.footnote}
 

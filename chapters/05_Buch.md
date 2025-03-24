@@ -1,4 +1,4 @@
-# Fünftes Buch.<br /> {#fuenf .unnumbered .break-after}
+# Fünftes Buch.<br /> {#fuenf .unnumbered .break-before}
 
 ## Erstes Kapitel.<br /><small>Das letzte Dienstjahr.</small>
 
@@ -642,9 +642,6 @@ hinaus. Die Vorsehung schärft die Dornen unseres Unglücks immer aufs Neue.“
 
 :::
 
-:::: { .align-center .break-after }
-****
-::::
 
 ## Zweites Kapitel.<br /><small>Schluß.</small>
 
@@ -1475,15 +1472,6 @@ Sein glänzendes Verdienst wird in der Geschichte seiner denkwürdigen Zeit
 aufbewahrt und Mir in stetem ehrenvollen Andenken bleiben.“
 
 :::
-
-:::: { .align-center }
-****
-::::
-
-
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0500]: [Ich habe diese Stelle nicht verändert, obschon zwei „Erklärungen“ veröffentlicht worden sind, welche die Angabe überhaupt in Abrede stellen, die eine vom General Graf Nostiz, die andere vom General v. Brünneck. Allerdings gewichtige Zeugen, der eine, wie seine Erklärung besagt, damals „der einzige Adjutant“ Blüchers, der andere „des Fürsten Blücher damals beigegebener Adjutant, welcher dessen Correspondenz zu besorgen hatte.“ Dennoch scheint die Frage mit jenen Erklärungen nicht erledigt. Ausdrücklich ist ihnen gegenüber die mir gemachte Mittheilung aufrecht erhalten worden; auch ein preußischer General hat mich aufs Neue versichert, daß jene Thatsache, richtig sei. Wenn die Erklärungen erhärten, daß Blüchers Ernennung bereits wenige Tage, nachdem Napoleons Rückkehr in Wien bekannt geworden, erfolgt ist, so war mir diese Thatsache bekannt. Auch wußte ich, daß Knesebeck damals in Wien und zwar so beschäftigt war, daß er gewiß nicht nach Berlin reisen konnte. Aber Mittheilungen, die mir General Rühle 1847 gemacht, ergaben für eine etwas spätere Zeit Verhältnisse, welche Knesebecks Reise erklären und bestätigen. Der Wortlaut der im Text angeführten Angabe gestattet anzunehmen, daß jene Bemühungen, Blücher „über Seite zu schieben“ gemacht sind, nachdem er bereits ernannt war. Ich glaube zu wissen, daß es dieselben Einflüsse waren, welche es bewirkten, daß die sechszehnte Brigade nicht die ihr schon bestimmte erlauchte Person zum Führer erhielt, eine Aenderung, die auch in den Motiven nicht ohne Zusammenhang mit jener bestrittenen Thatsache gewesen sein soll. — Für den Kundigen werden diese Andeutungen genügen, mich zu rechtfertigen.]{.footnote}
 

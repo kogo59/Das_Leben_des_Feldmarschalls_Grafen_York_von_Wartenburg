@@ -20,8 +20,8 @@ METADATA_ARG = --metadata-file=$(METADATA)
 METADATA_PDF = chapters/preface/metadata_pdf_html.md
 PREFACE_EPUB = chapters/preface/preface_epub.md chapters/preface/00_Vorwort_epub.md
 PREFACE_HTML_PDF = chapters/preface/preface_epub.md chapters/preface/00_Vorwort_pdf_html.md
-ARGS = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) $(METADATA_ARG) --reference-location=document
-ARGS_HTML = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) --reference-location=document --metadata=lang:de
+ARGS = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) $(METADATA_ARG) --reference-location=section
+ARGS_HTML = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) --reference-location=section --metadata=lang:de
 #CALIBRE="../../calibre/Calibre Portable/Calibre/"
 #CALIBRE = "C:/Program Files/Calibre2/"
 CALIBRE=""
@@ -69,7 +69,7 @@ $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf: $(MAKEFILE) $(METADATA) $(CHAPTERS_HTML_PDF
 	cp  *.css  $(IMAGES_FOLDER)
 	cp  $(IMAGES_FOLDER)/York_von_Wartenburg_*.jpg .
 	cp  $(IMAGES_FOLDER)/cover.jpg .
-	pandoc $(ARGS_HTML) $(METADATA_ARG) $(CSS_ARG_PRINT) --pdf-engine=prince --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(METADATA_PDF)  $(PREFACE_HTML_PDF) $(CHAPTERS)
+	pandoc $(ARGS_HTML) $(METADATA_ARG) $(CSS_ARG_PRINT) --pdf-engine=prince --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=pdf -o $@ $(METADATA_PDF)  $(PREFACE_HTML_PDF) $(CHAPTERS)
 	rm  $(IMAGES_FOLDER)/*.css
 	rm York_von_Wartenburg_*.jpg 
 	rm cover.jpg 

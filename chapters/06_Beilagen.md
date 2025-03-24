@@ -1,8 +1,8 @@
-# Beilagen.<br /> {#sechs .unnumbered }
+# Beilagen.<br /> {#sechs .unnumbered  .break-before}
 
 <br /><br /><br />
 
-:::: { .align-center .break-after }
+:::: { .align-center }
 ****
 ::::
 
@@ -647,7 +647,6 @@ Commandeur der Stabswache:
 Druck von Metzger & Wittig in Leipzig.
 :::
 
-#### **Anmerkungen** {.unnumbered}
 
 [^0700]: [Das Vorstehende ist ein Auszug aus der „Ordre de bataille und Combattanten-Liste der Truppen unter Befehl des Generallieutenant v. York. Niclasdorf, 28. Mai 1813“. Die Einzelaufzählungen sind weggelassen. Die „Summa des ganzen Corps“ lautet:<br />20 Staabsofficiere, 250 Oberofficiere, 9903 Unterofficiere, 83 Chirurgen, 227 Spielleute, 8615 Gemeine. Summa excl. Chirurgen 10115.]{.footnote}
 

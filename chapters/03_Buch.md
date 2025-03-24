@@ -1,4 +1,4 @@
-# Drittes Buch.<br /> {#DREI .unnumbered .break-after}
+# Drittes Buch.<br /> {#DREI .unnumbered .break-before}
 
 ## Erstes Kapitel.<br /><small>Preußisch oder Russisch?</small>
 
@@ -1992,9 +1992,6 @@ am 7. Februar, verließ Stein Königsberg; die russische Vollmacht hatte ein End
 
 :::
 
-:::: { .align-center .break-after }
-****
-::::
 
 ## Zweites Kapitel.<br /><small>Die Gründung der Landwehr.</small>
 
@@ -3064,9 +3061,6 @@ Druck von Metzger & Wittig in Leipzig.
 
 :::
 
-:::: { .align-center .break-after }
-****
-::::
 
 ## Drittes Kapitel.<br /><small>Das russische Bündnis. Des Krieges Anfang.</small>
 
@@ -4618,10 +4612,6 @@ Offensive überzugehen und morgen, hoffe ich, stehen wir nicht mehr. hier.“
 Alles zeigte, daß man sich entscheidenden Ereignissen nähere.
 
 :::
-
-:::: { .align-center .break-after }
-****
-::::
 
 
 ## Viertes Capitel.<br /><small>Groß-Görschen und Bautzen.</small>
@@ -6341,13 +6331,6 @@ die Dörfer zwischen Ohlau und dem Zobten.
 
 :::
 
-:::: { .align-center  }
-****
-::::
-
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [Bericht des Herrn v. .... aus Gerskullen 1. Januar 1813; „ich war so dreist, für meine Landsleute zu bitten,“ fügt der Schreiber hinzu.]{.footnote}
 
